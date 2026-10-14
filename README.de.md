@@ -1,9 +1,5 @@
 [English](README.md) · **Deutsch**
 
-# Über mich
-
-<img src="assets/profile.png" alt="Illustriertes Profillogo" width="160" height="160">
-
 ## Hallo, ich bin Christoph.
 
 Ich bin gelernter IT-Systemelektroniker und mache derzeit eine Umschulung zum Fachinformatiker für Anwendungsentwicklung. Ich möchte verstehen, wie Systeme funktionieren, und Wege finden, Hardware und Software miteinander zu verbinden.
