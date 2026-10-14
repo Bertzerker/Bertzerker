@@ -1,9 +1,5 @@
 **English** · [Deutsch](README.de.md)
 
-# About me
-
-<img src="assets/profile.png" alt="Illustrated profile logo" width="160" height="160">
-
 ## Hi, I’m Christoph.
 
 I’m a trained IT systems electronics technician, now retraining in software development. I enjoy understanding how systems work—and finding ways to make hardware and software work together.
